@@ -1,0 +1,10 @@
+.slider-promo {
+  color: black;
+}
+.slider-element {
+  width: 290px;
+  padding: 30px;
+  background-color: brown;
+  border-radius: 15px;
+  margin-right: 10px;
+}
